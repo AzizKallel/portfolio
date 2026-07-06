@@ -41,7 +41,7 @@ export const trustedBy: TrustedBrand[] = [
   { name: "algorithmics.tn", logo: "/brands/algo.png" },
   { name: "MakeWear", logo: "/brands/mw.jpg" },
   { name: "Space Talent", logo: "/brands/spacetalent.jpg" },
-  { name: "Malek Ben Achour", logo: "/brands/malek.jpg" },
+  { name: "Malek Ben Achour", logo: "/brands/maleka.jpg" },
   { name: "Sarah Lamine", logo: "/brands/sarah.jpg" },
   { name: "dr fabrice bianchi", logo: "/brands/doc.jpg" },
 ];
@@ -334,7 +334,7 @@ export const testimonials: Testimonial[] = [
     role: "Textile Expert",
     quote:
       "Aziz brings a unique combination of creativity and execution. His ability to transform ideas into content and build a clear brand presence makes him a valuable partner for any entrepreneur looking to stand out.",
-    avatar: "/testimonials/malek.jpg",
+    avatar: "/testimonials/maleka.jpg",
   },
   {
     name: "Lamis Chebbi",
