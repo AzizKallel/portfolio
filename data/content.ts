@@ -249,7 +249,7 @@ export const projects: Project[] = [
       "Directed testimonial and proof-driven content to build trust fast.",
       "Coordinated launch-week content across every platform simultaneously.",
     ],
-    video: "https://pub-30b255dd2dc34159ba4c8c0ff254a3f4.r2.dev/eng.mp4",
+    video: "https://pub-30b255dd2dc34159ba4c8c0ff254a3f4.r2.dev/Eng.mp4",
     poster: "",
   },
 
