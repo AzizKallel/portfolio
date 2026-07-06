@@ -142,7 +142,7 @@ export const projects: Project[] = [
       "Wrote and storyboarded scripts weekly, coached on-camera delivery.",
       "Set up a repurposing pipeline turning one shoot into a week of content.",
     ],
-    video: "https://pub-30b255dd2dc34159ba4c8c0ff254a3f4.r2.dev/Dentiste.mp4",
+    video: "https://pub-30b255dd2dc34159ba4c8c0ff254a3f4.r2.dev/Dentiste2.mp4",
     poster: "",
   },
   {
