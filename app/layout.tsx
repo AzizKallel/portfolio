@@ -11,6 +11,7 @@ import "@fontsource/jetbrains-mono/400.css";
 import "@fontsource/jetbrains-mono/500.css";
 import "./globals.css";
 import { site } from "@/data/content";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://example.com"),
@@ -38,6 +39,7 @@ export default function RootLayout({
       <body className="font-body antialiased">
         <div className="grain-overlay" />
         {children}
+        <Analytics />
       </body>
     </html>
   );
